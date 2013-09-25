@@ -1,0 +1,15 @@
+{
+    "contents" : "parseTweets(tweets=\"C:\\\\Users\\\\nilesh.patil\\\\Documents\\\\R Projects\\\\Twitter\\\\Data collected\\\\tw.json\",simplify = FALSE, verbose = TRUE)->a",
+    "created" : 1380095188594.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1537679833",
+    "id" : "B2C4F9D3",
+    "lastKnownWriteTime" : 1379937898,
+    "path" : "~/R Projects/Twitter/R Codes/Import file sequence.R",
+    "properties" : {
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
